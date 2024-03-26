@@ -6,7 +6,7 @@ Salam kenal, saya Bevinda Vivian. Saya adalah seorang mahasiswa dari Sekolah Tek
 LinkedIn : https://linkedin.com/in/bevindavivian
 
 
-Instagram: https://www.instagram.com/vivianbevinda
+Instagram : https://www.instagram.com/vivianbevinda
 
 
 E-Mail   : 19623228@mahasiswa.itb.ac.id
