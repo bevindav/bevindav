@@ -4,6 +4,8 @@ Salam kenal, saya Bevinda Vivian. Saya adalah seorang mahasiswa dari Sekolah Tek
 
 ## Reach me on:
 LinkedIn : https://linkedin.com/in/bevindavivian
+
+
 Instagram: https://www.instagram.com/vivianbevinda
 
 <!--
