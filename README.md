@@ -8,6 +8,9 @@ LinkedIn : https://linkedin.com/in/bevindavivian
 
 Instagram: https://www.instagram.com/vivianbevinda
 
+
+E-Mail   : 19623228@mahasiswa.itb.ac.id
+
 <!--
 **bevindav/bevindav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
