@@ -1,6 +1,6 @@
 # Halo 👋
 
-Salam kenal, saya Bevinda Vivian. Saya adalah seorang mahasiswa dari Sekolah Teknik Elektro dan Informatika - Komputasi (STEI-K) ITB Angkatan 2023. 
+Salam kenal, saya Bevinda Vivian. Saya adalah seorang mahasiswa Teknik Informatika ITB Angkatan 2023. 
 
 ## Reach me on:
 LinkedIn : https://linkedin.com/in/bevindavivian
