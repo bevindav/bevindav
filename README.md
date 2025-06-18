@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Bev and I'm a 2023 Computer Science Student, from Bandung Institute of Technology (ITB)</h2>
 
 ![](https://komarev.com/ghpvc/?username=bevindav&abbreviated=true)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/bevindav/bevindav/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="center">
