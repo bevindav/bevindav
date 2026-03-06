@@ -2,11 +2,9 @@ name: Generate Datas
 
 on:
   schedule:
-    # Berjalan tepat setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Wajib ditambahkan agar action diizinkan push file ke branch 'output'
 permissions:
   contents: write
 
@@ -15,7 +13,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Animasi Snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -25,7 +22,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push file hasil render ke branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
