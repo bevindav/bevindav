@@ -1,13 +1,10 @@
 <h2 align="left">Hi 👋! My name is Bev and I'm a 2023 Computer Science Student, from Bandung Institute of Technology (ITB)</h2>
 
 ![](https://komarev.com/ghpvc/?username=bevindav&abbreviated=true)
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bevindav&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bevindav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -33,6 +30,7 @@
 </div>
 
 ###
+![3D animation](https://github.com/bevindav/bevindav/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 <div align="left">
   <a href="https://www.youtube.com/c/bevyt" target="_blank">
