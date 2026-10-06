@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bev and I'm a 2023 Computer Science Student, from Bandung Institute of Technology (ITB)</h2>
+<h2 align="left">Hi 👋! My name is Bev and I'm a Final Year Computer Science Student, from Bandung Institute of Technology (ITB)</h2>
 
 ![](https://komarev.com/ghpvc/?username=bevindav&abbreviated=true)
 ###
